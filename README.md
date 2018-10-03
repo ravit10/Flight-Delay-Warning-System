@@ -12,7 +12,7 @@ The task is - given the scheduled/actual departure time and delays, predict whet
  on-time arrival data for non-stop domestic flights by major air carriers, and provides such additional items as departure and arrival delays, origin and destination airports, flight numbers, scheduled and actual departure and arrival times, cancelled or diverted flights, taxi-out and taxi-in times, air time, and non-stop distance.
  
  ## Summary of Results
- #### Inferences from EDA
+ #### Insights from EDA
 - Flight Delay Distribution: Not Delayed = 63.48% | Delayed = 36.52%
 - Average Arrival Delay is 33 minutes.
 - Average Air Time for delayed flights is higher than non-delayed flights. 
@@ -22,7 +22,7 @@ The task is - given the scheduled/actual departure time and delays, predict whet
 - March, June and July seem to be the busiest months.
 - 9 AM to 9 PM seems to be the busiest time frame in a day.
 
-#### Inferences from Machine Learning Models
+#### Insight from Machine Learning Models
 - **Logistic Regression:** Training Accuracy = 78.742% | Test Accuracy = 80.663%
 - **Decision Tree Classifier:** Training Accuracy = 99.981% | Test Accuracy = 99.993%
 - **Random Forest Classifier:** Training Accuracy = 98.063% | Test Accuracy = 98.061%
