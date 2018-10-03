@@ -26,3 +26,7 @@ The task is - given the scheduled/actual departure time and delays, predict whet
 - **Logistic Regression:** Training Accuracy = 78.742% | Test Accuracy = 80.663%
 - **Decision Tree Classifier:** Training Accuracy = 99.981% | Test Accuracy = 99.993%
 - **Random Forest Classifier:** Training Accuracy = 98.063% | Test Accuracy = 98.061%
+- **Feature Importance:**
+![alt text](https://github.com/ravit10/Flight-Delay-Warning-System/blob/master/Feature_Imp_Plot.png)
+
+- The "Delay in Depature time" of the flight is the most important feature to predict whether a flight will arrive late (i.e., Delayed) or arrive on time (i.e., not delayed) at the Destination Airport.
