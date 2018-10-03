@@ -22,7 +22,7 @@ The task is - given the scheduled/actual departure time and delays, predict whet
 - March, June and July seem to be the busiest months.
 - 9 AM to 9 PM seems to be the busiest time frame in a day.
 
-#### Insight from Machine Learning Models
+#### Insights from Machine Learning Models
 - **Logistic Regression:** Training Accuracy = 78.742% | Test Accuracy = 80.663%
 - **Decision Tree Classifier:** Training Accuracy = 99.981% | Test Accuracy = 99.993%
 - **Random Forest Classifier:** Training Accuracy = 98.063% | Test Accuracy = 98.061%
